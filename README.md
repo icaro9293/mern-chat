@@ -1,10 +1,31 @@
 # React + Vite
-
 ## npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# PROJETO WEB EM REACT/EXPRESS/NODE/MONGO CHAT FULL STACK
 
-Currently, two official plugins are available:
+# Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto de estudo, abordando conceitos de REACT, NODE.js (backend com express.js), banco de dados utilizando MONGO DB, de uma aplicação full-stack de chat completo entre multiplos clientes, cadastro, login,
+anexar arquivos, notificação do servidor de clientes online.
+
+## Tela login/cadastro.
+![Web 1](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss1.jpeg)
+
+## Tela principal de chat e seleçãoo dos contatos.
+![Web 2](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss2.jpeg)
+
+## Teste interação  entre 2 clientes.
+![Web 3](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss3.jpeg)
+### tela usuário 1
+
+![Web 4](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss4.jpeg)
+### anexando arquivos.
+
+![Web 5](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss5.jpeg)
+### tela usuário 2
+
+# Tecnologias utilizadas
+## Front end
+- REACT + VITE / JSX / tailwind
+## Back end
+- NODE.js / mongo DB / mongoose / express.js
