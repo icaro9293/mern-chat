@@ -15,7 +15,7 @@ anexar arquivos, notificação do servidor de clientes online.
 ![Web 2](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss1.png)
 
 ## Teste interação  entre 2 clientes.
-![Web 3](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss2.png)
+![Web 3](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss02.png)
 ### tela usuário 1
 
 ![Web 5](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss3.png)
