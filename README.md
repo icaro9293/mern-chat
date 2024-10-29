@@ -9,19 +9,16 @@ Projeto de estudo, abordando conceitos de REACT, NODE.js (backend com express.js
 anexar arquivos, notificação do servidor de clientes online.
 
 ## Tela login/cadastro.
-![Web 1](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss1.jpeg)
+![Web 1](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss4.png)
 
 ## Tela principal de chat e seleçãoo dos contatos.
-![Web 2](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss2.jpeg)
+![Web 2](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss1.png)
 
 ## Teste interação  entre 2 clientes.
-![Web 3](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss3.jpeg)
+![Web 3](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss2.png)
 ### tela usuário 1
 
-![Web 4](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss4.jpeg)
-### anexando arquivos.
-
-![Web 5](https://github.com/icaro9293/Wallfind-REACT/blob/main/screenshots/ss5.jpeg)
+![Web 5](https://github.com/icaro9293/mern-chat/blob/main/screenshots/ss3.png)
 ### tela usuário 2
 
 # Tecnologias utilizadas
